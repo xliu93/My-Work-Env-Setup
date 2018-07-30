@@ -3,6 +3,7 @@
 List:
 
 - vimrc
+    - use Vundle for plugins
 - shell 
     - basic
         - bash on Linux
